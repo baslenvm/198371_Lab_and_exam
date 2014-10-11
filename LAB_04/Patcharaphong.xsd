@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://gear.kku.ac.th/Patcharaphong"
+    xmlns:tns="http://gear.kku.ac.th/Patcharaphong"
+    elementFormDefault="qualified">
+    <xsd:element name="profile">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="about">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="name">
+                                <xsd:complexType>
+                                    <xsd:attribute name="prefix" type="xsd:string"/>
+                                    <xsd:attribute name="firstname" type="xsd:string"/>
+                                    <xsd:attribute name="lastname" type="xsd:string"/>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="sex"/>
+                            <xsd:element name="birthday"/>
+                            <xsd:element name="hobbies"/>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+                <xsd:element name="background">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="skill" minOccurs="0" maxOccurs="unbounded"/>
+                            <xsd:element name="education" minOccurs="0" maxOccurs="unbounded" type="tns:education"></xsd:element>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+                <xsd:element name="contact">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="hometown" type="xsd:string"/>
+                            <xsd:element name="address" type="xsd:string"/>
+                            <xsd:element name="postcode" type="xsd:string"></xsd:element>
+                            <xsd:element name="email" type="xsd:string"/>
+                            <xsd:element name="website">
+                                <xsd:complexType>
+                                    <xsd:attribute name="facebook" type="xsd:string"/>
+                                    <xsd:attribute name="googleplus" type="xsd:string"/>
+                                    <xsd:attribute name="twitter" type="xsd:string"/>
+                                    <xsd:attribute name="linkedin" type="xsd:string"/>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="phone" type="xsd:string"/>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:complexType name="education" mixed="true">
+        <xsd:sequence>
+            <xsd:element name="school">
+                <xsd:complexType>
+                    <xsd:simpleContent>
+                        <xsd:extension base="xsd:string">
+                            <xsd:attribute name="graduation" type="xsd:string"/>
+                        </xsd:extension>
+                    </xsd:simpleContent>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="faculty" type="xsd:string" minOccurs="0"/>
+            <xsd:element name="address" type="xsd:string" minOccurs="0"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

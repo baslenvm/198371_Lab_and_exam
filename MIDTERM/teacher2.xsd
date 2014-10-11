@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://gear.kku.ac.th"
+            xmlns:tns="http://gear.kku.ac.th"
+            xmlns:c="http://class.kku.ac.th"
+            xmlns:r="http://research.kku.ac.th"
+            elementFormDefault="qualified">
+    <xsd:import namespace="http://class.kku.ac.th" schemaLocation="class.xsd" />
+    <xsd:import namespace="http://research.kku.ac.th" schemaLocation="research.xsd" />
+    <xsd:element name="teachers">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="teacher" minOccurs="0" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="name"/>
+                            <xsd:element name="classes" type="c:classes"/>
+                            <xsd:element name="papers" minOccurs="0" type="r:research" />
+                        </xsd:sequence>
+                        <xsd:attribute name="id" type="xsd:string"/>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

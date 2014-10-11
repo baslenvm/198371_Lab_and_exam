@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:twitter="http://api.twitter.com">
+    <channel>
+        <title>Twitter / BuddhaQuotes</title>
+        <link>http://twitter.com/BuddhaQuotes</link>
+        <atom:link type="application/rss+xml" href="http://twitter.com/statuses/user_timeline/89368633.rss" rel="self"/>
+        <description>Twitter updates from Buddhist Quotes / BuddhaQuotes.</description>
+        <language>en-us</language>
+        <ttl>40</ttl>
+        <item>
+            <title>BuddhaQuotes: Delight in bodily forms, feelings, perceptions, mental formations or consciousness, then delight in suffering.</title>
+            <description>BuddhaQuotes: Delight in bodily forms, feelings, perceptions, mental formations or consciousness, then delight in suffering.</description>
+            <pubDate>Sun, 12 Dec 2010 13:18:09 +0000</pubDate>
+            <guid>http://twitter.com/BuddhaQuotes/statuses/13945703587913730</guid>
+            <link>http://twitter.com/BuddhaQuotes/statuses/13945703587913730</link>
+            <twitter:source>&lt;a href=&quot;http://www.twaitter.com&quot; rel=&quot;nofollow&quot;&gt;Twaitter&lt;/a&gt;</twitter:source>
+            <twitter:place/>
+        </item>
+        <item>
+            <title>BuddhaQuotes: Decay, disease, death, sorrow, pain, and despair cannot be avoided by mere desiring -- and not to get what one desires is suffering.</title>
+            <description>BuddhaQuotes: Decay, disease, death, sorrow, pain, and despair cannot be avoided by mere desiring -- and not to get what one desires is suffering.</description>
+            <pubDate>Sat, 11 Dec 2010 19:14:30 +0000</pubDate>
+            <guid>http://twitter.com/BuddhaQuotes/statuses/13672993314054144</guid>
+            <link>http://twitter.com/BuddhaQuotes/statuses/13672993314054144</link>
+            <twitter:source>&lt;a href=&quot;http://www.twaitter.com&quot; rel=&quot;nofollow&quot;&gt;Twaitter&lt;/a&gt;</twitter:source>
+            <twitter:place/>
+        </item>
+    </channel>
+</rss>

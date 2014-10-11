@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lib="http://www.zvon.org/library">
+
+    <rdf:Description about="RD">
+        <rdf:type resource="http://www.zvon.org/library/Author"/>
+        <lib:firstName>Roald</lib:firstName>
+        <lib:surname>Dahl</lib:surname>
+    </rdf:Description>
+
+    <rdf:Description about="JC">
+        <rdf:type resource="http://www.zvon.org/library/Author"/>
+        <lib:firstName>Joseph</lib:firstName>
+        <lib:surname>Conrad</lib:surname>
+    </rdf:Description>
+
+    <rdf:Description about="Matilda">
+        <rdf:type resource="http://www.zvon.org/library/Book"/>
+        <lib:creator rdf:resource='RD'/>
+        <lib:pages>240</lib:pages>
+    </rdf:Description>
+
+    <rdf:Description about="The BFG">
+        <rdf:type resource="http://www.zvon.org/library/Book"/>
+        <lib:creator rdf:resource='RD'/>
+        <lib:pages>208</lib:pages>
+    </rdf:Description>
+
+    <rdf:Description about="Heart of Darkness">
+        <rdf:type resource="http://www.zvon.org/library/Book"/>
+        <lib:creator rdf:resource='JC'/>
+        <lib:pages>110</lib:pages>
+    </rdf:Description>
+
+    <rdf:Description about="Lord Jim">
+        <rdf:type resource="http://www.zvon.org/library/Book"/>
+        <lib:creator rdf:resource='JC'/>
+        <lib:pages>314</lib:pages>
+    </rdf:Description>
+
+    <rdf:Description about="The Secret Agent">
+        <rdf:type resource="http://www.zvon.org/library/Book"/>
+        <lib:creator rdf:resource='JC'/>
+        <lib:pages>249</lib:pages>
+    </rdf:Description>
+</rdf:RDF> 

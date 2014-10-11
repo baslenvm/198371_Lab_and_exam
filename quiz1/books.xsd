@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://gear.kku.ac.th/Patcharaphong"
+    xmlns:tns="http://gear.kku.ac.th/Patcharaphong"
+    elementFormDefault="qualified">
+    <xsd:element name="catalog">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="book" type="tns:book" minOccurs="0" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:complexType name="book">
+        <xsd:sequence>
+            <xsd:element name="title">
+                <xsd:complexType mixed="true">
+                    <xsd:attribute name="lang" type="xsd:string" default="english"/>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="price"/>
+            <xsd:element name="date" minOccurs="0" maxOccurs="1"/>
+            <xsd:element name="publish_year">
+                <xsd:complexType mixed="true">
+                    <xsd:attribute name="year" type="xsd:string"/>
+                    <xsd:attribute name="type" type="xsd:string"/>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="description" type="tns:description" minOccurs="0" maxOccurs="1"/>
+        </xsd:sequence>
+        <xsd:attribute name="id" type="xsd:string"/>
+    </xsd:complexType>
+    <xsd:complexType name="description" mixed="true">
+        <xsd:sequence>
+            <xsd:element name="thai"/>
+            <xsd:element name="br"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

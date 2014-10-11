@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teacher.xsl"?>
+<teachers xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+          xmlns='http://gear.kku.ac.th'
+          xsi:schemaLocation='http://gear.kku.ac.th teacher.xsd'>
+    <teacher id="4830409876-5">
+        <name>Somchai Rakchart<nickname>Chai</nickname></name>
+        <classes>
+            <class id="198371">XML and Web Services</class>
+            <class id="198290">Computer Engineering Workshop</class>
+        </classes>
+    </teacher>
+    <teacher id="46301234-5">
+        <name>Somying Ruknailuang</name>
+        <classes>
+            <class id="198371">XML and Web Services</class>
+            <class id="198372">Web Programming</class>
+            <class id="198130">Advanced Computer Programming</class>
+        </classes>
+        <papers>These are my recent papers
+            <paper name="A Review and Comparison of Rule Languages" isi="no"/>
+            <paper name="A Mobile App and an API for Essential and Useful Thai Herbs Search"
+                    isi="yes"/>
+        </papers>
+    </teacher>
+</teachers>
+
+

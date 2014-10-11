@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile xmlns="http://gear.kku.ac.th/Patcharaphong"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:schemaLocation="http://gear.kku.ac.th/Patcharaphong Patcharaphong.xsd">
+    <about>
+        <name prefix='Mr.' firstname='Patcharaphong' lastname='Batdee'/>
+        <sex>male</sex>
+        <birthday>10/13/1993</birthday>
+        <hobbies>Play computer</hobbies>
+    </about>
+    <background>
+        <skill />
+        <education>
+            1.ประถม
+            <school graduation='2005'>Banbua School</school>
+            <address>Sakon Nakhon</address>
+        </education>
+        <education>
+            2.มัธยม
+            <school graduation='2011'>Sakolraj School</school>
+            <address>Sakon Nakhon</address>
+        </education>
+        <education>
+            3.มหาวิทยาลัย
+            <school graduation=''>Khon Kaen University</school>
+            <faculty>Engineering</faculty>
+            <address>Khon Kaen</address>
+        </education>
+    </background>
+    <contact>
+        <hometown>Sakon Nakhon</hometown>
+        <address>34/13, Swang, Phanna Nikhon, Sakon Nakhon</address>
+        <postcode>47130</postcode>
+        <email>Patcharaphong.batdee@kkumail.com</email>
+        <website facebook='https://www.facebook.com/Baslenvm'
+                 googleplus='https://plus.google.com/109989934828415341352'
+                 twitter='https://twitter.com/baslenvm'
+                 linkedin='http://th.linkedin.com/pub/patcharaphong-batdee/88/467/437'/>
+        <phone>088-3361656</phone>
+    </contact>
+</profile>

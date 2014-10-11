@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://gear.kku.ac.th"
+    xmlns:tns="http://gear.kku.ac.th"
+    elementFormDefault="qualified">
+    <xsd:element name="teachers">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="teacher" minOccurs="0" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="name"/>
+                            <xsd:element name="classes">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="class" maxOccurs="unbounded" minOccurs="0">
+                                            <xsd:complexType mixed="true">
+                                                <xsd:attribute name="id" type="xsd:string"/>
+                                            </xsd:complexType>
+                                        </xsd:element>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="papers" minOccurs="0">
+                                <xsd:complexType mixed="true">
+                                    <xsd:sequence>
+                                        <xsd:element name="paper" minOccurs="0" maxOccurs="unbounded">
+                                            <xsd:complexType>
+                                                <xsd:attribute name="name" type="xsd:string"/>
+                                                <xsd:attribute name="isi" type="xsd:string"/>
+                                            </xsd:complexType>
+                                        </xsd:element>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                        </xsd:sequence>
+                        <xsd:attribute name="id" type="xsd:string"/>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

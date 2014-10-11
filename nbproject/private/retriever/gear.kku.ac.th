@@ -1,0 +1,444 @@
+
+<!DOCTYPE html>
+<html lang="th-TH">
+<head>
+<meta charset="UTF-8" />
+<meta name="description" content="ภาควิชา วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น" />
+<title>Department of Computer Engineering | Faculty of Engineering, Khon Kaen University</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://gear.kku.ac.th/wp-content/themes/twentyten-child/style.css" />
+<link rel="pingback" href="http://gear.kku.ac.th/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Department of Computer Engineering &raquo; Feed" href="http://gear.kku.ac.th/index.php/feed" />
+<link rel="alternate" type="application/rss+xml" title="Department of Computer Engineering &raquo; ความเห็น Feed" href="http://gear.kku.ac.th/index.php/comments/feed" />
+<script type='text/javascript' src='http://gear.kku.ac.th/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://gear.kku.ac.th/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://gear.kku.ac.th/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://gear.kku.ac.th/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0" />
+ 	<link rel="stylesheet" href="http://gear.kku.ac.th/wp-content/plugins/live-calendar/live-calendar.css" type="text/css" media="screen" /> 
+<style type="text/css">	.ssba {
+											
+											
+											
+											
+										}
+										.ssba img		
+										{ 	
+											width: 20px !important;
+											padding: 2px;
+											border:  0;
+											box-shadow: none !important;
+											display: inline !important;
+											vertical-align: middle;
+										}
+										.ssba, .ssba a		
+										{
+											text-decoration:none;
+											background: none;
+											
+											font-size: 	14px;
+											color: 		#000000!important;
+											font-weight: normal;
+										}</style>
+<meta http-equiv="Content-Language" content="th-TH" />
+<link hreflang="en" href="http://gear.kku.ac.th/?lang=en" rel="alternate" />
+<style>
+#wpadminbar #wp-admin-bar-language>div.ab-item{ background-size: 0;background-image: url(http://gear.kku.ac.th/wp-content/plugins/qtranslate/flags/th.png);}
+#wpadminbar ul li#wp-admin-bar-th {background-size: 0; background-image: url(http://gear.kku.ac.th/wp-content/plugins/qtranslate/flags/th.png);}
+#wpadminbar ul li#wp-admin-bar-en {background-size: 0; background-image: url(http://gear.kku.ac.th/wp-content/plugins/qtranslate/flags/gb.png);}
+</style>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+
+<body class="home blog">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<h1 id="site-title">
+					<span>
+						<a href="http://gear.kku.ac.th/" title="Department of Computer Engineering" rel="home">Department of Computer Engineering</a>
+					</span>
+				</h1>
+				<div id="site-description">Faculty of Engineering, Khon Kaen University</div>
+
+							</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-menu1" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-25"><a href="http://gear.kku.ac.th/">หน้าแรก</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://gear.kku.ac.th/index.php/curriculum">หลักสูตร</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://gear.kku.ac.th/index.php/courses">รายวิชา</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://gear.kku.ac.th/index.php/staff">บุคลากร</a></li>
+<li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a href="http://gear.kku.ac.th/index.php/archives/category/student">ผลงานนักศีกษา</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://gear.kku.ac.th/index.php/about">ภาควิชา</a></li>
+</ul></div>		<div id="ztrans_language_chooser">
+		<ul class="ztrans_language_chooser" id="ztranslate-chooser"><li class="lang-th active"><a href="http://gear.kku.ac.th/" hreflang="th" title="ไทย"<span>ไทย</span></a></li><li class="lang-en"><a href="http://gear.kku.ac.th/?lang=en" hreflang="en" title="English"<span>English</span></a></li></ul><div class="ztrans_widget_end"></div>		</div>
+
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+	<div id="nav-above" class="navigation">
+		<div class="nav-previous"><a href="http://gear.kku.ac.th/index.php/page/2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+		<div class="nav-next"></div>
+	</div><!-- #nav-above -->
+
+
+
+
+			<div id="post-1189" class="post-1189 post type-post status-publish format-standard hentry category-uncategorized">
+			<h2 class="entry-title"><a href="http://gear.kku.ac.th/index.php/archives/1189" rel="bookmark">โครงการพิธีไหว้ครู ประจำปีการศึกษา 2557</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://gear.kku.ac.th/index.php/archives/1189" title="16:09" rel="bookmark"><span class="entry-date">8 ตุลาคม 2557, 16:09</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://gear.kku.ac.th/index.php/archives/author/wipawadee_songsate" title="View all posts by wipawadee songsate">wipawadee songsate</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>          ตามที่ภาควิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น ได้กำหนดจัดโครงการพิธีไหว้ครู ประจำปีการศึกษา 2557 ในวันพฤหัสบดีที่ 4 กันยายน 2557 และในโครงการดังกล่าว ภาควิชาฯ ได้มีการมอบรางวัลให้แก่นักศึกษาที่มีผลการเรียนดีและกิจกรรมเด่น ในปีการศึกษา 2556 บัดนี้ ภาควิชาฯ จึงขอประกาศรายชื่อนักศึกษาที่ได้รับรางวัลดังกล่าว ดังรายละเอียดต่อไปนี้</p>
+<p> <strong>1. รางวัล ผลการเรียนสูงสุด</strong> จำนวน 3  รางวัล  ได้แก่</p>
+<p>  ชั้นปีที่ 2  ได้แก่            นางสาวสุญานี          พลศรี            </p>
+<p>  ชั้นปีที่ 3  ได้แก่            นายจีรเกียรติ           ภูบุญอบ          </p>
+<p>  ชั้นปีที่ 4  ได้แก่            นายฌานุวรรษ          อัศวเมนะกุล     </p>
+<p> <strong>2. รางวัล พัฒนาการดีเด่น            </strong>จำนวน  2  รางวัล  ได้แก่</p>
+<p>  ชั้นปีที่ 3  ได้แก่           นายปานเพชร         ศรีเนตร์</p>
+<p>  ชั้นปีที่ 4  ได้แก่           นายชัชพล              อนวัชมงคล</p>
+<p> <strong>3. รางวัล นักศึกษาช่วยเหลือกิจกรรมดีเด่น </strong>จำนวน  3  รางวัล  ได้แก่</p>
+<p>  ชั้นปีที่ 2  ได้แก่           นายธนกฤต             พลอยเกตุ</p>
+<p>  ชั้นปีที่ 3  ได้แก่           นายรวมยศ             รัตนมงคล</p>
+<p>  ชั้นปีที่ 4  ได้แก่           นายปรัชญ์พงศ์         จำปาถิ่น</p>
+<!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left">Share<a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://gear.kku.ac.th/index.php/archives/1189"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://gear.kku.ac.th/index.php/archives/1189&amp;text=%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%84%E0%B8%AB%E0%B8%A7%E0%B9%89%E0%B8%84%E0%B8%A3%E0%B8%B9+%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2+2557+"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://gear.kku.ac.th/index.php/archives/1189"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://gear.kku.ac.th/index.php/archives/category/uncategorized" rel="category tag">ทั่วไป</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>ไม่ให้ใส่ความเห็น</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1178" class="post-1178 post type-post status-publish format-standard hentry category-event category-uncategorized">
+			<h2 class="entry-title"><a href="http://gear.kku.ac.th/index.php/archives/1178" rel="bookmark">พิธีพระราชทานปริญญาบัตร ประจำปี 2557</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://gear.kku.ac.th/index.php/archives/1178" title="14:01" rel="bookmark"><span class="entry-date">7 ตุลาคม 2557, 14:01</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://gear.kku.ac.th/index.php/archives/author/%e0%b8%a7%e0%b8%aa%e0%b8%b8_%e0%b9%80%e0%b8%8a%e0%" title="View all posts by admin1">admin1</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>พระบาทสมเด็จพระเจ้าอยู่หัวทรงพระกรุณาโปรดเกล้าโปรดกระหม่อมให้ สมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี เสด็จพระราชดำเนินแทนพระองค์พระราชทานปริญญาบัตร แก่ผู้สำเร็จการศึกษาจากมหาวิทยาลัยขอนแก่น ประจำปีการศึกษา ๒๕๕๗ ในวันจันทร์ที่ ๑ ธันวาคม ๒๕๕๗ ณ ศูนย์ประชุมอเนกประสงค์กาญจนาภิเษก มหาวิทยาลัยขอนแก่น</p>
+<p><a title="http://www.kku.ac.th/congratulations/" href="http://www.kku.ac.th/congratulations/">http://www.kku.ac.th/congratulations/</a></p>
+<!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left">Share<a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://gear.kku.ac.th/index.php/archives/1178"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://gear.kku.ac.th/index.php/archives/1178&amp;text=%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%A3+%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B5+2557+"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://gear.kku.ac.th/index.php/archives/1178"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://gear.kku.ac.th/index.php/archives/category/event" rel="category tag">ข่าว</a>, <a href="http://gear.kku.ac.th/index.php/archives/category/uncategorized" rel="category tag">ทั่วไป</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>ไม่ให้ใส่ความเห็น</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1173" class="post-1173 post type-post status-publish format-standard hentry category-uncategorized">
+			<h2 class="entry-title"><a href="http://gear.kku.ac.th/index.php/archives/1173" rel="bookmark">NSC2015</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://gear.kku.ac.th/index.php/archives/1173" title="15:53" rel="bookmark"><span class="entry-date">25 กันยายน 2557, 15:53</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://gear.kku.ac.th/index.php/archives/author/%e0%b8%a7%e0%b8%aa%e0%b8%b8_%e0%b9%80%e0%b8%8a%e0%" title="View all posts by admin1">admin1</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<h2><strong><a href="http://nsc.siit.tu.ac.th/nsc/index.php/posts/read/117">การแข่งขันพัฒนาโปรแกรมคอมพิวเตอร์แห่งประเทศไทย ครั้งที่ 17</a> </strong></h2>
+<p>ลงทะเบียนและส่งข้อเสนอโครงการ <a href="http://nsc.siit.tu.ac.th/GENA">แบบออนไลน์ในระบบ GENA </a> ระหว่าง 1 กันยายน &#8211; 31 ตุลาคม 57</p>
+<p>ประกาศผลข้อเสนอโครงการที่ผ่านการพิจารณา 14 พฤศจิกายน 57</p>
+<p>เงินทุนและรางวัล</p>
+<p>โครงการที่ผ่านการพิจารณาจะได้รับทุนสนับสนุนรวมโครงการละ 12,000 บาท โดยมีรายละเอียด ดังนี้</p>
+<p>1. ผ่านการพิจารณาในรอบข้อเสนอโครงการ (รอบแรก) ได้รับทุนสนับสนุนโครงการละ 3,000 บาท</p>
+<p>2. ผ่านการพิจารณาในรอบผลงานโครงการ (รอบสอง) ได้รับทุนสนับสนุนโครงการละ 9,000 บาท (โดยทีมผู้พัฒนาได้รับ 7,000 บาท และอาจารย์ที่ปรึกษาได้รับ 2,000 บาท)</p>
+<p>สำหรับผลงานที่ผ่านการพิจารณาเข้าสู่รอบชิงชนะเลิศ จะมีเงินรางวัลพร้อมโล่เกียรติยศ ดังนี้ รางวัลที่ 1 60,000 บาท และถ้วยพระราชทานจากสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี เฉพาะประเภทนักเรียน นิสิต นักศึกษา)</p>
+<p>รางวัลที่ 2 40,000 บาท</p>
+<p>รางวัลที่ 3 20,000 บาท</p>
+<p>รางวัลชมเชย ประเภทละ 2 รางวัลๆ ละ 10,000 บาท</p>
+<p>รางวัลพิเศษ บริษัท ไมโครซอฟท์ (ประเทศไทย) จำกัด ในการไปทัศนศึกษาในต่างประเทศ</p>
+<p>เงินรางวัลทุกประเภท จะแบ่งเป็น 2 ส่วน โดยมอบให้ทีมผู้พัฒนา จำนวน 80% และอาจารย์ที่ปรึกษา 20%</p>
+<p>สถาบันการศึกษาที่ได้รับรางวัลที่ 1, 2 และ 3 ในแต่ละประเภท จะได้รับโล่รางวัลเกียรติยศจากเนคเทค ผลงานชนะเลิศและรองชนะเลิศของนักเรียน นิสิต นักศึกษา ทุกประเภทจากการแข่งขันพัฒนาโปรแกรมคอม พิวเตอร์แห่งประเทศไทย ครั้งที่ 17 (NSC 2015) จะได้รับสิทธิ์เข้าสู่รอบสุดท้ายของการแข่งขันรางวัลเจ้าฟ้า ไอที รัตนราชสุดา สารสนเทศ ครั้งที่ 10 จัดโดย มูลนิธิวิจัยเทคโนโลยีสารสนเทศ</p>
+<!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left">Share<a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://gear.kku.ac.th/index.php/archives/1173"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://gear.kku.ac.th/index.php/archives/1173&amp;text=NSC2015+"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://gear.kku.ac.th/index.php/archives/1173"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://gear.kku.ac.th/index.php/archives/category/uncategorized" rel="category tag">ทั่วไป</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>ไม่ให้ใส่ความเห็น</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1145" class="post-1145 post type-post status-publish format-standard hentry category-uncategorized">
+			<h2 class="entry-title"><a href="http://gear.kku.ac.th/index.php/archives/1145" rel="bookmark">Google IO Extended Khon Kaen 2014</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://gear.kku.ac.th/index.php/archives/1145" title="13:51" rel="bookmark"><span class="entry-date">24 มิถุนายน 2557, 13:51</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://gear.kku.ac.th/index.php/archives/author/%e0%b8%a7%e0%b8%aa%e0%b8%b8_%e0%b9%80%e0%b8%8a%e0%" title="View all posts by admin1">admin1</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><a href="http://gear.kku.ac.th/wp-content/uploads/2014/06/google_io.jpg"><img src="http://gear.kku.ac.th/wp-content/uploads/2014/06/google_io-300x168.jpg" alt="google_io" width="300" height="168" class="alignnone size-medium wp-image-1151" /></a><br />
+นำเสนอสำหรับนักพัฒนาและผู้ใช้ https://plus.google.com/events/cfoeajb0uhutsva01gv4oakr9lc<br />
+ลงทะเบียนโดยการกด Yes ที่หน้า event นี้ แล้วรับเสื้อฟรี ขนมและน้ำฟรี สำหรับผู้ที่ลงทะเบียนและอยู่ร่วมตลอดงาน<br />
+ที่ห้อง 4101 ภาควิชาวิศวกรรมคอมพิวเตอร์  26 มิย 14.00 -17.00 น.</p>
+<!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left">Share<a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://gear.kku.ac.th/index.php/archives/1145"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://gear.kku.ac.th/index.php/archives/1145&amp;text=Google+IO+Extended+Khon+Kaen+2014+"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://gear.kku.ac.th/index.php/archives/1145"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://gear.kku.ac.th/index.php/archives/category/uncategorized" rel="category tag">ทั่วไป</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>ไม่ให้ใส่ความเห็น</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1140" class="post-1140 post type-post status-publish format-standard hentry category-uncategorized">
+			<h2 class="entry-title"><a href="http://gear.kku.ac.th/index.php/archives/1140" rel="bookmark">ACM ICPC 2014</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://gear.kku.ac.th/index.php/archives/1140" title="14:10" rel="bookmark"><span class="entry-date">21 มิถุนายน 2557, 14:10</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://gear.kku.ac.th/index.php/archives/author/%e0%b8%a7%e0%b8%aa%e0%b8%b8_%e0%b9%80%e0%b8%8a%e0%" title="View all posts by admin1">admin1</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>ภาควิชาวิศวกรรมคอมพิวเตอร์ ร่วมกับ sipa จัดการแข่งขัน acm icpc 2014 ระดับภูมิภาค ภาคตะวันออกเฉียงเหนือ แข่งขัน วันที่ 21 กันยายน 2557<br />
+<a href="http://manet.en.kku.ac.th/acmicpc2014/" title="acm icpc 2014">รายละเอียด</a></p>
+<!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left">Share<a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://gear.kku.ac.th/index.php/archives/1140"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://gear.kku.ac.th/index.php/archives/1140&amp;text=ACM+ICPC+2014+"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://gear.kku.ac.th/index.php/archives/1140"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://gear.kku.ac.th/index.php/archives/category/uncategorized" rel="category tag">ทั่วไป</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>ไม่ให้ใส่ความเห็น</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1136" class="post-1136 post type-post status-publish format-standard hentry category-uncategorized">
+			<h2 class="entry-title"><a href="http://gear.kku.ac.th/index.php/archives/1136" rel="bookmark">WUNCA</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://gear.kku.ac.th/index.php/archives/1136" title="10:12" rel="bookmark"><span class="entry-date">17 มิถุนายน 2557, 10:12</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://gear.kku.ac.th/index.php/archives/author/%e0%b8%a7%e0%b8%aa%e0%b8%b8_%e0%b9%80%e0%b8%8a%e0%" title="View all posts by admin1">admin1</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><a href="http://gear.kku.ac.th/wp-content/uploads/2014/06/wunca.jpg"><img src="http://gear.kku.ac.th/wp-content/uploads/2014/06/wunca-300x75.jpg" alt="wunca" width="300" height="75" class="alignnone size-medium wp-image-1137" /></a><br />
+<a href="http://www.wunca.uni.net.th/wunca29/">ประชุมเชิงปฏิบัติการ การดำเนินกิจกรรมบนระบบเครือข่ายสารสนเทศเพื่อพัฒนาการศึกษา ครั้งที่ 29</a><br />
+ระหว่างวันที่ 8 &#8211; 10 กรกฎาคม 2557 ณ มหาวิทยาลัยขอนแก่น<br />
+โดย สำนักงานบริหารเทคโนโลยีสารสนเทศ สำนักงานคณะกรรมการการอุดมศึกษา ร่วมกับ มหาวิทยาลัยขอนแก่น</p>
+<!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left">Share<a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://gear.kku.ac.th/index.php/archives/1136"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://gear.kku.ac.th/index.php/archives/1136&amp;text=WUNCA+"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://gear.kku.ac.th/index.php/archives/1136"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://gear.kku.ac.th/index.php/archives/category/uncategorized" rel="category tag">ทั่วไป</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>ไม่ให้ใส่ความเห็น</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1126" class="post-1126 post type-post status-publish format-standard hentry category-uncategorized">
+			<h2 class="entry-title"><a href="http://gear.kku.ac.th/index.php/archives/1126" rel="bookmark">ICSEC 2014</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://gear.kku.ac.th/index.php/archives/1126" title="12:35" rel="bookmark"><span class="entry-date">11 มิถุนายน 2557, 12:35</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://gear.kku.ac.th/index.php/archives/author/%e0%b8%a7%e0%b8%aa%e0%b8%b8_%e0%b9%80%e0%b8%8a%e0%" title="View all posts by admin1">admin1</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><a href="http://gear.kku.ac.th/wp-content/uploads/2014/06/icsec2014logo.jpg"><img src="http://gear.kku.ac.th/wp-content/uploads/2014/06/icsec2014logo.jpg" alt="icsec2014logo" width="232" height="218" class="alignnone size-full wp-image-1128" /></a><br />
+<a href="http://icsec2014.cs.kku.ac.th/home.html">The 18th International Computer Science and Engineering Conference</a></p>
+<p>&#8220;Toward Cloud Computing for Next Generation IT innovation&#8221;</p>
+<p>July 30 &#8211; August 1, 2014, Pullman hotel, Khon Kaen</p>
+<!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left">Share<a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://gear.kku.ac.th/index.php/archives/1126"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://gear.kku.ac.th/index.php/archives/1126&amp;text=ICSEC+2014+"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://gear.kku.ac.th/index.php/archives/1126"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://gear.kku.ac.th/index.php/archives/category/uncategorized" rel="category tag">ทั่วไป</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>ไม่ให้ใส่ความเห็น</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1111" class="post-1111 post type-post status-publish format-standard hentry category-student">
+			<h2 class="entry-title"><a href="http://gear.kku.ac.th/index.php/archives/1111" rel="bookmark">รางวัลที่ 3 โปรแกรมเพื่อความบันเทิง NSC 2014</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://gear.kku.ac.th/index.php/archives/1111" title="19:27" rel="bookmark"><span class="entry-date">24 มีนาคม 2557, 19:27</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://gear.kku.ac.th/index.php/archives/author/%e0%b8%a7%e0%b8%aa%e0%b8%b8_%e0%b9%80%e0%b8%8a%e0%" title="View all posts by admin1">admin1</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><a href="http://gear.kku.ac.th/wp-content/uploads/2014/03/nsc2014.jpg"><img src="http://gear.kku.ac.th/wp-content/uploads/2014/03/nsc2014-300x225.jpg" alt="nsc2014" width="300" height="225" class="alignnone size-medium wp-image-1112" /></a><br />
+นักศึกษาภาควิชาวิศวกรรมคอมพิวเตอร์ คว้ารางวัลที่ 3 โครงการแข่งขันพัฒนาโปรแกรมคอมพิวเตอร์แห่งประเทศไทย ครั้งที 16 (National Software Contest – NSC 2014) ในประเภทการพัฒนาโโปรแกรมเพื่อความบันเทิง</p>
+<p>การแข่งขันนี้ในรอบชิงชนะเลิศจัดขึ้นระหว่างวันที่ 11-14 มีนาคม 2555 โดยความร่วมมือระหว่าง NECTEC, SIPA และ สวทช ณ หอประชุมมหิศร อาคารเอสซีบีพาร์ค ธนาคารไทยพาณิชย์ จำกัด (มหาชน) กรุงเทพมหานครฯ </p>
+<p>ทีมนักศึกษาสาขาวิศวกรรมคอมพิวเตอร์ ได้แก่ นายกฤษฎา แลบุตร นายธนภัทร คามวัลย์ ส่งผลงาน “รถถังบรรลือโลก” โดยมี ผศ. ดร. กานดา รุณนะพงศา สายแก้ว อาจารย์ประจำภาควิชาวิทยาการคอมพิวเตอร์เป็นอาจารย์ที่ปรึกษา<br />
+<a href="http://fic.nectec.or.th/nsc16_Decisions" title="รายละเอียดผลการแข่งขัน NSC2014">รายละเอียดผลการแข่งขัน NSC2014</a></p>
+<!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left">Share<a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://gear.kku.ac.th/index.php/archives/1111"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://gear.kku.ac.th/index.php/archives/1111&amp;text=%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88+3+%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87+NSC+2014+"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://gear.kku.ac.th/index.php/archives/1111"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://gear.kku.ac.th/index.php/archives/category/student" rel="category tag">ผลงานนักศึกษา</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>ไม่ให้ใส่ความเห็น</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1106" class="post-1106 post type-post status-publish format-standard hentry category-uncategorized">
+			<h2 class="entry-title"><a href="http://gear.kku.ac.th/index.php/archives/1106" rel="bookmark">รับสมัครบุคคลเพื่อขอรับทุนการศึกษา ระดับปริญญาโท ทุนช้างเผือกมอดินแดง ประจำปีการศึกษา 2557</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://gear.kku.ac.th/index.php/archives/1106" title="13:59" rel="bookmark"><span class="entry-date">3 มีนาคม 2557, 13:59</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://gear.kku.ac.th/index.php/archives/author/%e0%b8%a7%e0%b8%aa%e0%b8%b8_%e0%b9%80%e0%b8%8a%e0%" title="View all posts by admin1">admin1</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>รับสมัครบุคคลเพื่อขอรับทุนการศึกษา ระดับปริญญาโท “ทุนช้างเผือกมอดินแดง ประจำปีการศึกษา 2557” เปิดรับสมัครตั้งแต่วันที่ 3 กุมภาพันธ์ – 21 มีนาคม 2557</p>
+<p><a href="http://gear.kku.ac.th/wp-content/uploads/2014/03/ทุนช้างเผือกมอดินแดง-ปี-57.pdf"> รายละเอียดตามประกาศที่แนบมาพร้อมนี้</a></p>
+<!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left">Share<a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://gear.kku.ac.th/index.php/archives/1106"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://gear.kku.ac.th/index.php/archives/1106&amp;text=%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2+%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%82%E0%B8%97+%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%A1%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%87+%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2+2557+"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://gear.kku.ac.th/index.php/archives/1106"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://gear.kku.ac.th/index.php/archives/category/uncategorized" rel="category tag">ทั่วไป</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>ไม่ให้ใส่ความเห็น</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1104" class="post-1104 post type-post status-publish format-standard hentry category-uncategorized">
+			<h2 class="entry-title"><a href="http://gear.kku.ac.th/index.php/archives/1104" rel="bookmark">การนำเสนอหน้าชั้นเรียน วิชาProject</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://gear.kku.ac.th/index.php/archives/1104" title="13:49" rel="bookmark"><span class="entry-date">3 มีนาคม 2557, 13:49</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://gear.kku.ac.th/index.php/archives/author/%e0%b8%a7%e0%b8%aa%e0%b8%b8_%e0%b9%80%e0%b8%8a%e0%" title="View all posts by admin1">admin1</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>ขอเรียนเชิญเข้าร่วมฟัง การนำเสนอหน้าชั้นเรียน วิชาProject ในวันอังคารที่ 4 ก.พ.57 เวลา 13.00-16.30 น. และวันพุธที่ 5 ก.พ.57 เวลา 09.00-15.30 น. ณ ห้อง 4510-4511</p>
+<!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left">Share<a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://gear.kku.ac.th/index.php/archives/1104"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://gear.kku.ac.th/index.php/archives/1104&amp;text=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99+%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2Project+"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://gear.kku.ac.th/index.php/archives/1104"  target="_blank" ><img src="http://gear.kku.ac.th/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a></div></div>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://gear.kku.ac.th/index.php/archives/category/uncategorized" rel="category tag">ทั่วไป</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>ไม่ให้ใส่ความเห็น</span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+				<div id="nav-below" class="navigation">
+					<div class="nav-previous"><a href="http://gear.kku.ac.th/index.php/page/2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+					<div class="nav-next"></div>
+				</div><!-- #nav-below -->
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://gear.kku.ac.th/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li><li id="categories-2" class="widget-container widget_categories"><h3 class="widget-title">หัวข้อ</h3>		<ul>
+	<li class="cat-item cat-item-6"><a href="http://gear.kku.ac.th/index.php/archives/category/cp" >Call for paper</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://gear.kku.ac.th/index.php/archives/category/class" >การเรียนการสอน</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://gear.kku.ac.th/index.php/archives/category/event" >ข่าว</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://gear.kku.ac.th/index.php/archives/category/uncategorized" >ทั่วไป</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://gear.kku.ac.th/index.php/archives/category/student" >ผลงานนักศึกษา</a>
+</li>
+		</ul>
+</li><li id="archives-2" class="widget-container widget_archive"><h3 class="widget-title">บันทึกข่าว</h3>		<ul>
+	<li><a href='http://gear.kku.ac.th/index.php/archives/date/2014/10'>ตุลาคม 2014</a></li>
+	<li><a href='http://gear.kku.ac.th/index.php/archives/date/2014/09'>กันยายน 2014</a></li>
+	<li><a href='http://gear.kku.ac.th/index.php/archives/date/2014/06'>มิถุนายน 2014</a></li>
+	<li><a href='http://gear.kku.ac.th/index.php/archives/date/2014/03'>มีนาคม 2014</a></li>
+	<li><a href='http://gear.kku.ac.th/index.php/archives/date/2013/12'>ธันวาคม 2013</a></li>
+	<li><a href='http://gear.kku.ac.th/index.php/archives/date/2013/11'>พฤศจิกายน 2013</a></li>
+		</ul>
+</li><li id="linkcat-12" class="widget-container widget_mylinkorder"><h3 class="widget-title">อื่นๆ</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://gear.kku.ac.th/index.php/calendar">ปฏิทิน</a></li>
+<li><a href="http://gear.kku.ac.th/index.php/coe-job">การได้งานทำบัณฑิต</a></li>
+<li><a href="http://gear.kku.ac.th/index.php/form1">แบบฟอร์ม</a></li>
+<li><a href="http://gear.kku.ac.th/index.php/gallery">รูปภาพ</a></li>
+<li><a href="http://gear.kku.ac.th/index.php/linktoknow">สาระควรทราบ</a></li>
+<li><a href="http://portal.gs.kku.ac.th/index.php?option=com_content&#038;view=article&#038;id=3&#038;Itemid=7">ทุนการศึกษาบัณฑิตวิทยาลัย</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-2" class="widget-container widget_mylinkorder"><h3 class="widget-title">Link</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.kku.ac.th">มหาวิทยาลัยขอนแก่น</a></li>
+<li><a href="http://www.en.kku.ac.th">คณะวิศวกรรมศาสตร์</a></li>
+<li><a href="http://gear.kku.ac.th/circular/">งานธุรการ ภาควิชาฯ</a></li>
+<li><a href="http://10.161.64.9/video">Video</a></li>
+<li><a href="http://renoir.en.kku.ac.th/wlsn/">NTC telecommunications research lab</a></li>
+
+	</ul>
+</li>
+<li id="live-calendar-3" class="widget-container widget_live-calendar"><h3 class="widget-title"></h3>
+<table id="wp-calendar">
+  									<caption>ตุลาคม 2014</caption>
+  									<thead>
+                    <tr><th scope="col" title="อา">อา</th><th scope="col" title="จ">จ</th><th scope="col" title="อ">อ</th><th scope="col" title="พ">พ</th><th scope="col" title="พฤ">พฤ</th><th scope="col" title="ศ">ศ</th><th scope="col" title="ส">ส</th></tr></thead><tbody><tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>5</td><td><span class="calnk_side"><a href="http://gear.kku.ac.th/index.php/calendar "  style="background-color:#666666;" target="_blank">6<span style="background-color:#666666; color:#000000;"><span class="event-title" style="color:#000000">สอบกลางภาค</span><br/><span class="time" style="color:#000000; " > All day</span><br /><p style="font-size:85%; margin:10px; text-align:left; color:#000000"></p></span></a></span></td><td><span class="calnk_side"><a href="http://gear.kku.ac.th/index.php/calendar "  style="background-color:#666666;" target="_blank">7<span style="background-color:#666666; color:#000000;"><span class="event-title" style="color:#000000">สอบกลางภาค</span><br/><span class="time" style="color:#000000; " > All day</span><br /><p style="font-size:85%; margin:10px; text-align:left; color:#000000"></p></span></a></span></td><td><span class="calnk_side"><a href="http://gear.kku.ac.th/index.php/calendar "  style="background-color:#666666;" target="_blank">8<span style="background-color:#666666; color:#000000;"><span class="event-title" style="color:#000000">สอบกลางภาค</span><br/><span class="time" style="color:#000000; " > All day</span><br /><p style="font-size:85%; margin:10px; text-align:left; color:#000000"></p></span></a></span></td><td><span class="calnk_side"><a href="http://gear.kku.ac.th/index.php/calendar "  style="background-color:#666666;" target="_blank">9<span style="background-color:#666666; color:#000000;"><span class="event-title" style="color:#000000">สอบกลางภาค</span><br/><span class="time" style="color:#000000; " > All day</span><br /><p style="font-size:85%; margin:10px; text-align:left; color:#000000"></p></span></a></span></td><td><span class="calnk_side"><a href="http://gear.kku.ac.th/index.php/calendar "  style="background-color:#666666;" target="_blank">10<span style="background-color:#666666; color:#000000;"><span class="event-title" style="color:#000000">สอบกลางภาค</span><br/><span class="time" style="color:#000000; " > All day</span><br /><p style="font-size:85%; margin:10px; text-align:left; color:#000000"></p></span></a></span></td><td>11</td></tr><tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr><tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr><tr><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td>&nbsp;</td></tr><tr><td colspan="3" id="prev"><a href="http://gear.kku.ac.th/?month=sept&amp;yr=2014">&laquo; ก่อนหน้า</a></td><td colspan="4" id="next"><a href="http://gear.kku.ac.th/?month=nov&amp;yr=2014">ถัดไป &raquo;</a></td></tr></tbody></table>
+</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+				<a href="http://gear.kku.ac.th/" title="Department of Computer Engineering" rel="home">
+					Department of Computer Engineering				</a>
+			</div><!-- #site-info -->
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress.</a>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<!-- Powered by WPtouch: 3.4.10 --><link rel='stylesheet' id='ztranslate-style-css'  href='http://gear.kku.ac.th/wp-content/plugins/ztranslate/ztranslate.css?ver=4.0' type='text/css' media='all' />
+</body>
+</html>

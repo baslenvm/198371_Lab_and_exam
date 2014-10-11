@@ -1,0 +1,64 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>Hostels in Bangkok, Thailand</name>
+        <description>Listing of hostels, hotels, apartments, bed and breakfasts, guesthouses in Bangkok.
+            More information about these hostels at &lt;a href="http://www.hostelio.com/thailand/bangkok/"&gt;Bangkok Hostels&lt;/a&gt;
+        </description>
+        <Style id="hotel">
+            <IconStyle>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/shapes/lodging_maps.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="placemark 59024">
+            <name>NapPark Hostel</name>
+            <description>
+&lt;a href="http://www.hostelio.com/thailand/bangkok/nappark-hostel.html"&gt;&lt;img src="http://www.hostelio.com/hostels/thailand/nappark-hostel-59024-1.jpg" width="90" height="65" align="right" /&gt;&lt;/a&gt;If you are budget-mind traveler and looking for a unique place to stay in Bangkok with very reasonable prices, NapPark Hostel at Khao San is a newly renovated must-stay hostel experience in Bangkok. &lt;a href="http://www.hostelio.com/thailand/bangkok/nappark-hostel.html"&gt;&lt;br /&gt;More information&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;Book online : &lt;a href="http://www.hostelio.com/thailand/bangkok/nappark-hostel.html"&gt;NapPark Hostel&lt;/a&gt;&lt;br /&gt;
+                See more : &lt;a href="http://www.hostelio.com/thailand/bangkok/"&gt;Hostels in Bangkok, Thailand&lt;/a&gt;
+            </description>
+            <styleUrl>#hotel</styleUrl>
+            <Point>
+                <coordinates>100.497383,13.760957</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark 24241">
+            <name>Refill Now! Hostel</name>
+            <description>
+&lt;a href="http://www.hostelio.com/thailand/bangkok/refill-now-hostel.html"&gt;&lt;img src="http://www.hostelio.com/hostels/thailand/refill-now-hostel-24241-1.jpg" width="90" height="65" align="right" /&gt;&lt;/a&gt;Welcome to REFILL NOW! In Bangkok, the high-style low-cost place that promises to fill your stay with memorable moments! We offer a hip and innovative traveling and living experience to backpackers and budget travelers taking a break in one of Southeast Asia&amp;#039;s most exciting metropolises. &lt;a href="http://www.hostelio.com/thailand/bangkok/refill-now-hostel.html"&gt;&lt;br /&gt;More information&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;Book online : &lt;a href="http://www.hostelio.com/thailand/bangkok/refill-now-hostel.html"&gt;Refill Now! Hostel&lt;/a&gt;&lt;br /&gt;
+                See more : &lt;a href="http://www.hostelio.com/thailand/bangkok/"&gt;Hostels in Bangkok, Thailand&lt;/a&gt;
+            </description>
+            <styleUrl>#hotel</styleUrl>
+            <Point>
+                <coordinates>100.601044,13.735008</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark 9962">
+            <name>Urban House</name>
+            <description>
+&lt;a href="http://www.hostelio.com/thailand/bangkok/urban-house.html"&gt;&lt;img src="http://www.hostelio.com/hostels/thailand/urban-house-9962-1.jpg" width="90" height="65" align="right" /&gt;&lt;/a&gt;Urban House, opened in February 2006, is located on Saladaeng, Silom - the heart of Bangkoks business, tourist and entertainment district. &lt;a href="http://www.hostelio.com/thailand/bangkok/urban-house.html"&gt;&lt;br /&gt;More information&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;Book online : &lt;a href="http://www.hostelio.com/thailand/bangkok/urban-house.html"&gt;Urban House&lt;/a&gt;&lt;br /&gt;
+                See more : &lt;a href="http://www.hostelio.com/thailand/bangkok/"&gt;Hostels in Bangkok, Thailand&lt;/a&gt;
+            </description>
+            <styleUrl>#hotel</styleUrl>
+            <Point>
+                <coordinates>100.538208,13.727629</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="placemark 23433">
+            <name>Sivalai Place Apartments</name>
+            <description>
+&lt;a href="http://www.hostelio.com/thailand/bangkok/sivalai-place-apartments.html"&gt;&lt;img src="http://www.hostelio.com/hostels/thailand/sivalai-place-apartments-23433-1.jpg" width="90" height="65" align="right" /&gt;&lt;/a&gt;Suburban Oasis for rent? The best kept secret hostel in Bangkok!
+                Experience the real traditional Thai lifestyle &amp;amp; enjoy the lovely environment with us and local Thais! &lt;a href="http://www.hostelio.com/thailand/bangkok/sivalai-place-apartments.html"&gt;&lt;br /&gt;More information&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;Book online : &lt;a href="http://www.hostelio.com/thailand/bangkok/sivalai-place-apartments.html"&gt;Sivalai Place Apartments&lt;/a&gt;&lt;br /&gt;
+                See more : &lt;a href="http://www.hostelio.com/thailand/bangkok/"&gt;Hostels in Bangkok, Thailand&lt;/a&gt;
+            </description>
+            <styleUrl>#hotel</styleUrl>
+            <Point>
+                <coordinates>100.476990,13.743126</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

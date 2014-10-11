@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="companies.xsl"?>
+<companies>
+    <company>
+        <name>International Business Machine Cooperation</name>
+        <symbol>IBM</symbol>
+        <research>
+            <labs>
+                <lab location='new york city'>IBM TJ Watson Research Lab</lab>
+                <lab location='san jose'>IBM Almaden Research Center</lab>
+            </labs>
+        </research>
+    </company>
+    <company>
+        <name>Intel Cooperation</name>
+        <symbol>INTEL</symbol>
+        <research>
+            <labs>
+                <lab location='san jose'>Intel San Jose Research Lab</lab>
+                <lab location='pittsburgh'>Intel Pittsburgh Research Center</lab>
+            </labs>
+        </research>
+    </company>
+</companies>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<quotes>
+    These are a few famous quotes:
+    <quote>
+        <words>We cannot do great things, only small things with great 				love.</words>written by
+        <author aid='a01'>Mother Teresa</author>
+        <date>December 05, 1930</date>
+        <referred_by>India News</referred_by>
+        <referred_by>Loving and Caring People</referred_by>
+    </quote>
+    <br />
+    <quote>
+        <words>Learn as if you would live forever. Live as if you would 				die tomorrow.</words>written by
+        <author aid='a02'>Ghandi</author>
+    </quote>
+</quotes>

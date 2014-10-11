@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<catalog xmlns="http://gear.kku.ac.th/Patcharaphong"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:schemaLocation="http://gear.kku.ac.th/Patcharaphong books.xsd">
+    <book id="bk101">
+        <title lang="thai">ประชุมโครงโลกนิติ</title>
+        <price>40</price>
+        <publish_year type="Buffhist valender">2384</publish_year>
+    </book>
+    <book id="bk102">
+        <title>What I Knew When I Was 20</title>
+        <price>18.32</price>
+        <date>2013-10-22</date>
+        <publish_year>2009</publish_year>
+        <description>Opportunities are abundunt,but you need to identify problems
+            <thai>นวัตกรรมมากมายสามรถออกมาจากตัวเรา ได้หากเราไม่ยีดติดกับความรู้เติมๆ พื้นที่ปลอดภัย</thai>
+            <br />
+        </description>
+    </book>
+</catalog>

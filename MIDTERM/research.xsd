@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://research.kku.ac.th"
+    xmlns:tns="http://research.kku.ac.th"
+    elementFormDefault="qualified">
+        <xsd:complexType name="research" mixed="true">
+            <xsd:sequence>
+                <xsd:element name="paper" minOccurs="0" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:attribute name="name" type="xsd:string"/>
+                        <xsd:attribute name="isi" type="xsd:string"/>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+</xsd:schema>
