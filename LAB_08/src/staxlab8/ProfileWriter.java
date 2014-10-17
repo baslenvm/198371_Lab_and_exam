@@ -19,7 +19,7 @@ public class ProfileWriter {
         String fileName = "myProfile.xml";
         try {
             // output file name
-            
+
 // write an output factory
             XMLOutputFactory xof = XMLOutputFactory.newInstance();
 

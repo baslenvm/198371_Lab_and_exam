@@ -6,7 +6,6 @@
 package staxlab8;
 
 import java.io.*;
-import java.net.*;
 import javax.xml.stream.*;
 
 /**
@@ -16,10 +15,9 @@ import javax.xml.stream.*;
 public class GetRootElem {
 
     public static void main(String[] args) {
-        String input = Class.class.getResource("/staxlab8/nation.xml").toString();
+        String input = MyTransformer.class.getProtectionDomain().getCodeSource().getLocation().getPath() + "nation.xml";
         try {
-            URL url = new URL(input);
-            InputStream in = url.openStream();
+            FileInputStream in = new FileInputStream(input);
             XMLInputFactory factory = XMLInputFactory.newInstance();
             XMLStreamReader parser = factory.createXMLStreamReader(in);
             parser.next();

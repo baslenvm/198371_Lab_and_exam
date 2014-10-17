@@ -1,5 +1,6 @@
 package staxlab8;
 
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
@@ -19,10 +20,9 @@ import javax.xml.stream.XMLStreamReader;
  */
 public class VisitNodes {
     public static void main(String[] args) {
-        String input = Class.class.getResource("/staxlab8/nation.xml").toString();
+        String input = MyTransformer.class.getProtectionDomain().getCodeSource().getLocation().getPath() + "nation.xml";
         try {
-            URL url = new URL(input);
-            InputStream in = url.openStream();
+            FileInputStream in = new FileInputStream(input);
             XMLInputFactory factory = XMLInputFactory.newInstance();
             XMLStreamReader parser = factory.createXMLStreamReader(in);
             //start

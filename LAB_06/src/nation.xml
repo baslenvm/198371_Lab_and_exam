@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nation id="th" xmlns="http://gear.kku.ac.th/Patcharaphong"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://gear.kku.ac.th/Patcharaphong nation.xsd">
+    <name>Thailand</name>
+    <location>Southeast Asia</location>
+</nation>
