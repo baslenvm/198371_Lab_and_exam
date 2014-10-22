@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <!-- ส่วนหัวของหน้า -->
+    <head>
+        <!-- กำหนดการเช้ารหัสเป็น UTF-8 เพื่อให้สามารถดูหน้าเป็นภาษาไทยได้ -->
+        <meta charset="UTF-8">
+        <!-- ชื่อของหน้านี้ -->
+        <title>My first page</title>
+    </head>
+    <!-- ส่วนแสดงข้อูลของหน้า -->
+    <body>
+        <!-- กำหนด Welcome to my first page เป็นแบบ header1 ข้อความจะใหญ่และหน้า
+             text-align ใช้กำหนดตำแหน่งของข้อความ -->
+        <h1 style="text-align: center;">Welcome to my first page</h1>
+        <!-- img เป็นแท็กดึงภาพเข้าหน้าเวบ กำหนดความสูงเป็น 250px และความกว้างเป็น 200px -->
+        <img src="./images/mypic.jpg" width="200" height="250">
+        <!-- p ย่อหน้า paragraph ใหม่ -->
+        <p>My name is Mr.Patcharaphong Batdee. I’m a student in 
+            <!-- a แท็กในการลิงค์ไปในที่ต่างๆทั้งในหน้าเดียวกันและหน้าอื่นๆ ใช้ target="_blank" ในการขึ้น tab ใหม่ -->
+            <a href="http://gear.kku.ac.th/">Department of Computer</a> 
+            <a href="http://www.en.kku.ac.th/" target="_blank">Engineering Faculty of Engineering</a> 
+            <a href="http://www.kku.ac.th/" target="_blank">Khon Kaen University.</a>
+            These are  
+            <a href="#quotes">my favorite quotes.</a>  
+            I’m currently taking 
+            <a href="#courses">these courses</a></p>
+        <!-- หากจะลิงค์ไปยังส่วนใหนหน้าเดียวกัน ต้องกำหนด ID ในตำแหนงที่จะไป
+             ส่วนลิงค์ต้องใส่ที่ href ว่า # ตามด้วย ID ที่จะไป-->
+        <h2><a id="courses">My courses</a></h2>
+        <!-- สร้างตารางด้วยแท็ก Table เพิ่มแถวด้วย tr เพิ่มคอลัมน์ด้วย td และใช้แท็ก th ในส่วนหัว -->
+        <table>
+            <tr>
+                <th>Course ID</th>
+                <th>Course Name</th>
+            </tr>
+            <tr>
+                <td>198232</td>
+                <td>DATA STRUCTURES AND ALGORITHMS</td>
+            </tr>
+            <tr>
+                <td>198300</td>
+                <td>APPLIED PROBABILITY AND STATISTICS</td>
+            </tr>
+            <tr>
+                <td>198301</td>
+                <td>THEORY OF COMPUTATION</td>
+            </tr>
+            <tr>
+                <td>198320</td>
+                <td>MICROPROCESSORS AND INTERFACING</td>
+            </tr>
+            <tr>
+                <td>198321</td>
+                <td>MICROPROCESSORS AND INTERFACING LABORATORY</td>
+            </tr>
+            <tr>
+                <td>198371</td>
+                <td>XML AND WED SERVICES</td>
+            </tr>
+        </table>
+        <!-- กำหนด My favorite quotes เป็นแบบ header2 -->
+        <h2><a id="quotes">My favorite quotes</a></h2>
+        <!-- ul แท็กสำหรับสร้าง list โดย ul จะเป็นแบบจุด และ ol จะเป็นแบบตัวเลข ใช้ ul ในการจัดกลุ่ม -->
+        <ul>
+            <li>"A room without books is like a body without a soul." - Marcus Tullius Cicero</li>
+            <li>"ชีวิตนะมันง่ายมาก แค่ฟันธงแล้วอย่าหันหลังกลับไปมอง" - Tokyo Drift</li>
+        </ul>
+        <!-- กำหนด Your comment is welcome เป็นแบบ header2 -->
+        <h2>Your comment is welcome</h2>
+        <!-- สร้างฟอร์มโดยให้ post ข้อมูลไปที่ myfirstpage.php โดยข้อมูลที่ได้จะมาจาก textarea -->
+        <form action="myfirstpage.php" method="post">
+            <label>What do you think about this lab?</label><br>
+            <textarea name="comments" rows="10" cols="30"></textarea><br>
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
