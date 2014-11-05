@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.pttplc.com/ptt_webservice/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" targetNamespace="http://www.pttplc.com/ptt_webservice/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.pttplc.com/ptt_webservice/">
+      <s:element name="CurrentOilPrice">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Language" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrentOilPriceResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CurrentOilPriceResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetOilPrice">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Language" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="DD" type="s:short" />
+            <s:element minOccurs="1" maxOccurs="1" name="MM" type="s:short" />
+            <s:element minOccurs="1" maxOccurs="1" name="YYYY" type="s:short" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetOilPriceResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetOilPriceResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CurrentOilPriceSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrentOilPrice" />
+  </wsdl:message>
+  <wsdl:message name="CurrentOilPriceSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrentOilPriceResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetOilPriceSoapIn">
+    <wsdl:part name="parameters" element="tns:GetOilPrice" />
+  </wsdl:message>
+  <wsdl:message name="GetOilPriceSoapOut">
+    <wsdl:part name="parameters" element="tns:GetOilPriceResponse" />
+  </wsdl:message>
+  <wsdl:portType name="PTTInfoSoap">
+    <wsdl:operation name="CurrentOilPrice">
+      <wsdl:input message="tns:CurrentOilPriceSoapIn" />
+      <wsdl:output message="tns:CurrentOilPriceSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOilPrice">
+      <wsdl:input message="tns:GetOilPriceSoapIn" />
+      <wsdl:output message="tns:GetOilPriceSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="PTTInfoSoap" type="tns:PTTInfoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CurrentOilPrice">
+      <soap:operation soapAction="http://www.pttplc.com/ptt_webservice/CurrentOilPrice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOilPrice">
+      <soap:operation soapAction="http://www.pttplc.com/ptt_webservice/GetOilPrice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="PTTInfoSoap12" type="tns:PTTInfoSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CurrentOilPrice">
+      <soap12:operation soapAction="http://www.pttplc.com/ptt_webservice/CurrentOilPrice" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOilPrice">
+      <soap12:operation soapAction="http://www.pttplc.com/ptt_webservice/GetOilPrice" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PTTInfo">
+    <wsdl:port name="PTTInfoSoap" binding="tns:PTTInfoSoap">
+      <soap:address location="http://www.pttplc.com/webservice/pttinfo.asmx" />
+    </wsdl:port>
+    <wsdl:port name="PTTInfoSoap12" binding="tns:PTTInfoSoap12">
+      <soap12:address location="http://www.pttplc.com/webservice/pttinfo.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
