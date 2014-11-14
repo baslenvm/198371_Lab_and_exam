@@ -14,6 +14,7 @@
     <body>
         <h1><a href="./CalingFeed">CalingFeed</a></h1>
         <h1><a href="./CallingPTTWS">CallingPTTWS</a></h1>
-        <h1><a href="./CalingFeed">CalingFeed</a></h1>
+        <h1><a href="./CalingIKKU">CalingIKKU</a></h1>
+        <h1><a href="CallingGoogleMap.jsp">CallingGoogleMap</a></h1>
     </body>
 </html>
